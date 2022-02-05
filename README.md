@@ -17,7 +17,7 @@
 ##
 
 <div>
-	<a href='mailto:mfsraulino@gmail.com'>
+	<a href='mailto:marcosfsraulino@gmail.com'>
 		<img src='https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white'>
 	</a>
 	<a href='www.linkedin.com/in/marcosraulino'>
