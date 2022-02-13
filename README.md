@@ -1,7 +1,7 @@
 ## Olá, eu sou Marcos Raulino 👋
 
 - 🔭 Atualmente sou advogado e desenvolvedor python
-- 🌱 Estudando Flask
+- 🌱 Estudando SQL com PostgreSQL
 
 <div>
 	<a href='https://linktr.ee/Raulin0'>
