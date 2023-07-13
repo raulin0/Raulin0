@@ -1,31 +1,18 @@
-## Olá, eu sou Marcos Raulino 👋
+## Olá, eu sou Marcos Raulino!
 
-- 🔭 Atualmente sou desenvolvedor python e advogado 
-- 🌱 Cursando formação SQL com PostgreSQL
+- Sou desenvolvedor Python e advogado
+- Pós-graduando em análise e desenvolvimento de programas
+- Atualmente, também, estou cursando Django: crie aplicações em Python
 
-<div>
-	<a href='https://linktr.ee/Raulin0'>
-		<img src='https://github-readme-stats.vercel.app/api?username=Raulin0&show_icons=true&include_all_commits=true' height='170'>
-		<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Raulin0' height='170'>
-	</a>
-</div>
-
-<div>
-	<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' height='50'>
+<div style="display: inline_block">
+  <img align="center" alt="Raulino-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Raulino-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+	<img align="center" alt="Raulino-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
 
 ##
-
-<div>
-	<a href='mailto:marcosfsraulino@gmail.com'>
-		<img src='https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white'>
-	</a>
-	<a href='www.linkedin.com/in/marcosraulino'>
-		<img src='https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white'>
-	</a>
-	<a href='https://twitter.com/raulin0_'>
-		<img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white'>
-	</a>
-	
-![Snake animation](https://github.com/Raulin0/Raulin0/blob/output/github-contribution-grid-snake.svg)
+ 
+<div> 
+  <a href = "mailto:marcosfsraulino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/marcosraulino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
