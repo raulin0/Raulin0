@@ -1,8 +1,8 @@
-## Olá, eu sou Marcos Raulino!
+## Hi, I'm Marcos Raulino!
 
-- Desenvolvedor e Advogado
-- Pós-graduando em análise e desenvolvimento de programas
-- Criador do [How Many: MTG Calculator](https://www.howmanymtg.com/) (ferramenta fácil de usar para criar deckslists de magic: the gathering com uma base de mana mais consistente)
+- Developer and Lawyer
+- Postgraduate student in program analysis and development
+- Creator of [How Many: MTG Calculator](https://www.howmanymtg.com/) (easy-to-use tool for building magic: the gathering decks with a more consistent mana base)
 
 <div style="display: inline_block">
 	<img align="center" alt="Raulino-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
