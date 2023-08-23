@@ -5,12 +5,12 @@
 - Criador do [How Many: MTG Calculator](https://www.howmanymtg.com/) (ferramenta fácil de usar para criar deckslists de magic: the gathering com uma base de mana mais consistente)
 
 <div style="display: inline_block">
-	<img align="center" alt="Raulino-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-	<img align="center" alt="Raulino-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
-	<img align="center" alt="Raulino-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-	<img align="center" alt="Raulino-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-	<img align="center" alt="Raulino-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-	<img align="center" alt="Raulino-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+	<img align="center" alt="Raulino-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+	<img align="center" alt="Raulino-Django" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+	<img align="center" alt="Raulino-PostgreSQL" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+	<img align="center" alt="Raulino-HTML5" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+	<img align="center" alt="Raulino-CSS3" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+	<img align="center" alt="Raulino-Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
 
 ##
